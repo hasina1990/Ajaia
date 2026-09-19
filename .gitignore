@@ -1,0 +1,23 @@
+# local scratch — notes while the clock runs, not part of the submission
+scratch/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# os
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# editors
+.vscode/
+.idea/
+
+# secrets — never commit
+.env
+*.key
+credentials.json
