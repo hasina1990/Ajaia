@@ -1,0 +1,6 @@
+exception_id,terminal,event_type,carrier_code,event_ts,ts_basis,scoring_ready,needs_review,review_reason
+CPX-88213,Terminal 3,missed_pickup,SWFT,2026-08-14T09:12:00,unspecified,no,no,
+CPX-88214,Terminal 3,doc_mismatch,SWFT,2026-08-14T09:45:00,unspecified,no,no,
+CPX-88215,Terminal 3,missed_pickup,SWFT,2026-08-14T10:03:00Z,explicit_utc,yes,no,
+CPX-88216,Terminal 3,doc_mismatch,,2026-08-14T11:47:00,unspecified,no,yes,carrier_code is missing in the source and cannot be inferred
+CPX-88217,Terminal 3,carrier_substitution,RLCX,2026-08-15T08:02:00,unspecified,no,no,

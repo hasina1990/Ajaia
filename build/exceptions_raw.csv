@@ -1,0 +1,6 @@
+exception_id,terminal,event_type,carrier_code,event_ts
+CPX-88213,Terminal 3,missed_pickup,swft,2026-08-14 09:12:00
+CPX-88214,Terminal 3,doc_mismatch,SWFT,08/14/2026 09:45
+CPX-88215,T3,missed_pickup,Swft,2026-08-14T10:03:00Z
+CPX-88216,Terminal 3,doc_mismatch,,2026-08-14 11:47:00
+CPX-88217,Terminal 3,carrier_substitution,RLCX,08/15/2026 08:02

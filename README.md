@@ -1,6 +1,6 @@
 # Ajaia LLC — Technical Project Manager Assessment
 
-Submission by **Hasina** for the Technical Project Manager role at [Ajaia](https://ajaia.ai).
+Submission by **Hasina Ansari** for the Technical Project Manager role at [Ajaia](https://ajaia.ai).
 
 ## Contents
 
@@ -8,7 +8,8 @@ Submission by **Hasina** for the Technical Project Manager role at [Ajaia](https
 |------|------------|
 | [`SUBMISSION.md`](SUBMISSION.md) | Main submission document — Tasks 1–4, video link at top |
 | [`build/`](build/) | The working build deliverable |
-| [`resume/`](resume/) | Resume |
+
+**Resume:** [PDF (Google Drive)](https://drive.google.com/file/d/1oeavpFB8k0rOzEMUlKDDhOPD7bmHI_DB/view)
 
 ## Video
 

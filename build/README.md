@@ -6,17 +6,12 @@
 
 ## Run it
 
-### If Python
+Requires Python 3.12+ (developed on 3.12.10). No third-party packages, no
+credentials, no network access — it runs as-is.
+
 ```bash
-pip install -r requirements.txt
 python main.py
 ```
-
-### If n8n
-1. Open n8n → Workflows → Import from File
-2. Select `workflow.json`
-3. Set credentials on the nodes marked `<CONFIGURE>`
-4. Execute Workflow
 
 ## Input
 
@@ -27,5 +22,9 @@ python main.py
 -
 
 ## Out of scope
+
+-
+
+## Why a script and not a workflow integration
 
 -
